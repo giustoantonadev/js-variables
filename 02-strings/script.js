@@ -10,9 +10,9 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
-const number = '30';
+const number = 30;
 const text = 'january';
-const bool = 'true';
+const bool = true;
 
 console.log('number' + 'text' + 'bool');
 
